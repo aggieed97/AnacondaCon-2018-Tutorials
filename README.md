@@ -26,5 +26,5 @@ In this notebook, Stan shows how to save a model for use in the future.  This sa
 For the last notebook, Stan shows how to load a trained model from disk, and then benchmark the performance of the model on the CPU and GPU used.
 
 ### Key Takeaways
-I really enjoyed this tutorial.  There were several highlights to attending AnacondaCon 2018, and getting to go to this tutorial was easily one of those highlights.
+I really enjoyed this tutorial.  There were several highlights to attending AnacondaCon 2018, and getting to go to this tutorial was easily one of those highlights.  There were lots of great talks some of which I would like to get more information on especially the newest rollout of Tensorflow 1.7, using Recurrent Neural Networks for Predictive Maintenance, using Machine Learning to Drive Sales, and using A/B Testing with Advanced Analytics.  It's unfortunate that I was only able to attend one day of conference besides the Tutorials, but I would certainly consider going next year if given the chance.
 
